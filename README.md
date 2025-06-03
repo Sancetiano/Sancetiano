@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Sance</h1>
 <h3 align="center">A passionate frontend developer from Kerala</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Python & Javascript**
 
 - 💬 Ask me about **django, python or c programming**
 
-- 📫 How to reach me **sancecshaji@gmail.com**
+- 📫 How to reach me? **sancecshaji@gmail.com**
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact **I think I know a lil bit about many topics**
+- ⚡ Fun fact: **I think I know a lil bit about a wide variety of topics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
