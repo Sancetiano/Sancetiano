@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sance</h1>
 <h3 align="center">An aspiring developer from Kerala</h3>
 
-- 🌱 I’m currently learning **Python & Javascript**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **python, django or c programming**
 
