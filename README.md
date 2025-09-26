@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **python, django or c programming**
 
-- 📫 How to reach me? **sancecshaji@gmail.com**
+- 📫 How to reach me? **sancecshaji@gmail.com / https://www.linkedin.com/in/sance-s-0b660b10b/**
 
 - 😄 Pronouns: He/Him
 
