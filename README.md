@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sance</h1>
 <h3 align="center">An aspiring developer from Kerala</h3>
 
-- 🌱 I’m currently learning **Javascript**
+<!-- - 🌱 I’m currently learning **JS** -->
 
-- 💬 Ask me about **python, django or c programming**
+- 💬 Ask me about **python, django/ fastapi or c programming**
 
 - 📫 How to reach me? **sancecshaji@gmail.com / https://www.linkedin.com/in/sance-s-0b660b10b/**
 
